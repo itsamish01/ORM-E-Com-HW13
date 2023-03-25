@@ -15,6 +15,8 @@ This project is an e-commerce backend application built using Node.js, Express, 
 
 ## Link to Video
 
+Link: https://youtu.be/UsQBHBoIetM
+
 ## Installation
 
 1. Clone the Repo to you local machine
