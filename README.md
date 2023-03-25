@@ -13,6 +13,7 @@ This project is an e-commerce backend application built using Node.js, Express, 
 ## Screenshot
 ![Screenshot 2023-03-24 at 8 41 05 PM](https://user-images.githubusercontent.com/114682284/227679006-f0f6af53-3d55-42a7-a60c-465bfc637b16.png)
 
+## Link to Video
 
 ## Installation
 
